@@ -87,7 +87,7 @@ body:hover, body:click {
 	background-color: black;
 	/* transition: .5s ease-in-out; */
 }
-img.hover, img:click {
+img:hover, img:click {
 	-webkit-filter: brightness(2);
 	-webkit-filter: contrast(2);
 	-webkit-opacity: 0;
