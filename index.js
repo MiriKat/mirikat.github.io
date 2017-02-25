@@ -1,4 +1,4 @@
-var audio1 = document.getElementById("click touch");
+var audio1 = document.getElementById("click");
 audio1.volume=0.02;
 
 function playAudio() {
