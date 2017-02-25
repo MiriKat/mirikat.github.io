@@ -81,13 +81,13 @@ img:hover {
 	transition: .5s ease-in-out;
 }
  */
-body:hover, body:focus {
+body:active {
 
 	-webkit-filter: invert(1);
 	background-color: black;
 	/* transition: .5s ease-in-out; */
 }
-img:hover, img:focus {
+img:active {
 	-webkit-filter: brightness(2);
 	-webkit-filter: contrast(2);
 	-webkit-opacity: 0;
