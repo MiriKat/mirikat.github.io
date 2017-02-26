@@ -75,6 +75,19 @@ span {
 	font-weight: 200;
 	font-style: italic;
 }
+h4 {
+	/*margin-left: 1.66%;*/
+	/*width: 30%;*/
+	/* padding-bottom: 30px; */
+	/* padding-right: 10%; */
+	line-height: 25px;
+	font-family: Raleway;
+	font-size: 10px;
+	font-weight: 200;
+	color: gray;
+	font-style: normal;
+	text-align: right;
+}
 /*
 img:hover {
 
